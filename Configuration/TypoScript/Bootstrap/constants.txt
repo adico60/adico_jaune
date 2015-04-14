@@ -1,7 +1,7 @@
 plugin.bootstrap_package {
 	settings {
 		less {
-			gray-base= fff000
+			gray-base= #fff000
 		}
 	}
 }
