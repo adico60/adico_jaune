@@ -15,13 +15,13 @@ $EM_CONF[$_EXTKEY] = array (
 	'description' => 'Theme Decouverte ',
 	'category' => 'misc',
 	'version' => '0.0.1',
-	'state' => 'beta',
+	'state' => 'stable',
 	'uploadfolder' => true,
 	'createDirs' => '',
 	'clearcacheonload' => true,
-	'author' => 'Yann Bogdanovic',
-	'author_email' => 'yann.bogdanovic@cdgfpt46.fr',
-	'author_company' => 'CDGFPT 46',
+	'author' => 'Yann Berton',
+	'author_email' => 'solutionsweb@adico.fr',
+	'author_company' => 'ADICO60',
 	'constraints' => 
 	array (
 		'depends' => 
