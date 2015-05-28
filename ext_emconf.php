@@ -11,8 +11,8 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array (
-	'title' => 'Adico theme Decouverte',
-	'description' => 'Theme Decouverte ',
+	'title' => 'Adico theme Jaune',
+	'description' => 'Theme Jaune ',
 	'category' => 'misc',
 	'version' => '0.0.1',
 	'state' => 'stable',
